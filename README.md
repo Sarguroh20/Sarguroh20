@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tasmiya Sarguroh</h1>
 <h3 align="center">An autodidact who aspires to be a developer.</h3>
 
-<img align="right" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47u7n20day3tzqwgqucgrbpgcrzq2enh48ryagu097&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="400">
+<img align="right" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47u7n20day3tzqwgqucgrbpgcrzq2enh48ryagu097&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarguroh20&label=Profile%20views&color=0e75b6&style=flat" alt="sarguroh20" /> </p>
+
+- 🎓 I’m currently pursuing my Bachelors in IT.
 
 - 📘 I'm currently learning CS50X, **a course from Harvard.**
 
