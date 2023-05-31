@@ -7,13 +7,13 @@
 
 - 🎓 I’m currently pursuing my Bachelors in IT.
 
-- 📘 I'm currently learning CS50X, **a course from Harvard.**
-
 - ⏳ I'm presently working on [Hackathon Projects.](https://devpost.com/Sarguroh20?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-- 👩‍💻 All of my projects are available at [...](...)
+- 📘 I'm currently learning CS50X, **a course from Harvard.**
 
 - 📕 I'm also honing my **full stack development skills.**
+
+- 👩‍💻 All of my projects are available at [...](...)
 
 - 📫 Reach out to me: **sargurohtasmiya@gmail.com**
 
