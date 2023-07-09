@@ -5,7 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/About_me-155263)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="300" /><br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="300" />
 
 <div align="left">
   
