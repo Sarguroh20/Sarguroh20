@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://github.com/Sarguroh20/Sarguroh20/blob/main/github-header-image.png"> </div>
+<div align="center"> <img src="https://github.com/Sarguroh20/Sarguroh20/blob/main/github-header-image%20(1).png"> </div>
+
 <div align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000"> </div>
 
 <img align="right" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47u7n20day3tzqwgqucgrbpgcrzq2enh48ryagu097&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300">
