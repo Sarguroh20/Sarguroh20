@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasmiya Sarguroh</h1>
-<h3 align="center">An autodidact who aspires to be a developer.</h3>
+<div align="center"> <img src="https://github.com/Sarguroh20/Sarguroh20/blob/main/github-header-image.png"> </div>
 
 <img align="right" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47u7n20day3tzqwgqucgrbpgcrzq2enh48ryagu097&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300">
 
