@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8E%93+I%E2%80%99m+currently+pursuing+my+Bachelors+in+IT." alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%E2%8F%B3+I'm+presently+working+on+Hackathon+Projects.;%F0%9F%93%98+I'm+currently+learning+CS50X%2C+a+course+from+Harvard.;%F0%9F%93%95+I'm+also+honing+my+full+stack+development+skills.;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+All+of+my+projects+are+available+at+GitHub." alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=+%F0%9F%93%AB+Reach+out+to+me%3A+sargurohtasmiya%40gmail.com" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=+%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=+%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s..." alt="Typing SVG" />
 </div>
 
 <div align="left">
@@ -57,14 +57,6 @@
 
 [![Sarguroh20's GitHub | Stats](https://stats.quine.sh/Sarguroh20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
 [![Sarguroh20's GitHub | Languages Over Time](https://stats.quine.sh/Sarguroh20/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Contribution_Graph-155263">
-
-![snake gif](https://github.com/Sarguroh20/Sarguroh20/blob/output/github-contribution-grid-snake.gif)
-
-</div>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
