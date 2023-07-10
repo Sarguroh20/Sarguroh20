@@ -66,7 +66,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarguroh20&" alt="sarguroh20" /></p>
 
 [![Sarguroh20's GitHub | Stats](https://stats.quine.sh/Sarguroh20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
-[![Sarguroh20's GitHub | Topics](https://stats.quine.sh/Sarguroh20/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
+[![Sarguroh20's GitHub | Languages Over Time](https://stats.quine.sh/Sarguroh20/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
