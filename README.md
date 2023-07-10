@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/Sarguroh20/Sarguroh20/blob/main/github-header-image%20(1).png"> </div>
+<div align="center"> <img src="github-header-image (2).png"> </div>
 <br>
 <div align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000"> </div>
 <br>
