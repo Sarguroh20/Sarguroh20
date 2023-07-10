@@ -17,25 +17,12 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=2000&pause=1000&width=600&lines=%F0%9F%8E%93+I%E2%80%99m+currently+pursuing+my+Bachelors+in+IT." alt="Typing SVG" /></a>
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=2000&pause=1000&width=600&lines=%E2%8F%B3+I'm+presently+working+on+Hackathon+Projects.;%F0%9F%93%98+I'm+currently+learning+CS50X%2C+a+course+from+Harvard.;%F0%9F%93%95+I'm+also+honing+my+full+stack+development+skills.;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+All+of+my+projects+are+available+at+GitHub." alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=2000&pause=1000&width=600&lines=+%F0%9F%93%AB+Reach+out+to+me%3A+sargurohtasmiya%40gmail.com" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=2000&pause=1000&width=600&lines=+%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s..." alt="Typing SVG" /></a>
-
-  <!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=%F0%9F%8E%93+I%E2%80%99m+currently+pursuing+my+Bachelors+in+IT.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=%E2%8F%B3+I'm+presently+working+on+Hackathon+Projects.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=%F0%9F%93%98+I'm+currently+learning+CS50X%2C+a+course+from+Harvard.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=+%F0%9F%93%95+I'm+also+honing+my+full+stack+development+skills.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+All+of+my+projects+are+available+at+GitHub.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=%F0%9F%93%AB+Reach+out+to+me%3A+sargurohtasmiya%40gmail.com)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=600&height=40&lines=%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s...)](https://git.io/typing-svg)
--->
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=1500&pause=1000&width=600&lines=+%F0%9F%93%AB+Reach+out+to+me%3A+sargurohtasmiya%40gmail.com" alt="Typing SVG" /></a>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=1500&pause=1000&width=600&lines=+%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s..." alt="Typing SVG" /></a>
 </div>
 
 <div align="left">
