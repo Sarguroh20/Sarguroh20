@@ -39,8 +39,9 @@
 </div>
 
 <p align="left">
-  <a href="https://linkedin.com/in/inkedin.com/in/sarguroh-tasmiya-a783a221a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/sarguroh-tasmiya-a783a221a/" height="30" width="40" /></a>
-  <a href="https://discord.gg/Tasmiya#5363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tasmiya#5363" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/inkedin.com/in/sarguroh-tasmiya-a783a221a/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+ width="50" alt="inkedin.com/in/sarguroh-tasmiya-a783a221a/"/></a>
+  <a href="https://discord.gg/Tasmiya#5363" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" alt="Tasmiya#5363"/></a>
 </p>
 
 <div align="left">
@@ -50,7 +51,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,git,mongodb,sql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mongodb,git,github,vscode" />
   </a>
 </p>
 
@@ -74,12 +75,3 @@
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/Sarguroh20/count.svg)
-
-<div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/THE_END-ff5959">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
-</div>
