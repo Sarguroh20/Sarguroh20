@@ -59,6 +59,14 @@
 [![Sarguroh20's GitHub | Languages Over Time](https://stats.quine.sh/Sarguroh20/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Contribution_Graph-155263">
+
+![snake gif](https://github.com/Sarguroh20/Sarguroh20/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+
+<div align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Visitors_count-155263">
 </div>
