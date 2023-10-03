@@ -9,7 +9,7 @@
 <br>
 
 <div alt="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="25" height="25" />
+  <img src="https://github.com/Sarguroh20/Sarguroh20/blob/main/rainbow.gif" alt="Rainbow" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/About_me-155263">
 </div>
 
