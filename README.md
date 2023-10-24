@@ -1,5 +1,7 @@
 <div align="center"> 
-  <img src="https://github.com/Sarguroh20/Sarguroh20/blob/main/github-header-image%20(2).png"> 
+  
+![github-header-image (2)](https://github.com/Sarguroh20/Sarguroh20/assets/116432233/feb2a1ef-5476-47a6-b9a1-2e75298e7f02)
+
 </div>
 <br>
 
