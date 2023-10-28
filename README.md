@@ -11,7 +11,7 @@
 <br>
 
 <div alt="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="25" height="25" />
+   <img src="https://github.com/Sarguroh20/Sarguroh20/assets/116432233/c7ce967b-eb29-4189-b1a7-4b437c8a1b1c" alt="Rainbow" width="24" height="24" /> 
   <img alt="Static Badge" src="https://img.shields.io/badge/About_me-155263">
 </div>
 
