@@ -47,6 +47,13 @@
 </p>
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Digital_Badges-155263">
+</div>
+
+[![An image of @sarguroh20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarguroh20)](https://holopin.io/@sarguroh20)
+  
+<div align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_History-155263">
 </div>
