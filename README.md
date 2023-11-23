@@ -32,7 +32,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/tasmiya-sarguroh/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
  width="50" alt="inkedin.com/in/tasmiya-sarguroh/"/></a>
-  <a href="https://discord.gg/Tasmiya#236" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" alt="Tasmiya#236"/></a>
+  <a href="https://discord.com/users/1046800100845953104" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" alt="Tasmiya#236"/></a>
 </p>
 
 <div align="left">
