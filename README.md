@@ -18,10 +18,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" />
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8E%93+I%E2%80%99ve+completed+my+Bachelors+in+IT." alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%E2%8F%B3+I'm+presently+working+on+Hackathon+Projects.;%F0%9F%93%98+I'm+currently+learning+CS50X%2C+a+course+from+Harvard.;%F0%9F%93%95+I'm+also+honing+my+full+stack+development+skills.;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+All+of+my+projects+are+available+at+GitHub." alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=+%F0%9F%93%AB+Reach+out+to+me%3A+tasmiya.sarguroh%40gmail.com" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=+%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8E%93+I've+completed+my+Bachelors+in+IT." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%95+I'm+honing+my+full+stack+development+skills.;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+All+of+my+projects+are+available+at+GitHub." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%AB+Reach+out+to+me%3A+tasmiya.sarguroh%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s...;%F0%9F%98%89+Must+known+fact%3A+I+learn+to+earn+%F0%9F%92%B8..." alt="Typing SVG" />
 </div>
 
 <div align="left">
@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mongodb,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs,mongodb,git,github,c,cpp,java,vscode" />
   </a>
 </p>
 
