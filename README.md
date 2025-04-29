@@ -3,7 +3,6 @@
 ![header](https://github.com/user-attachments/assets/9638489d-26b6-4643-9765-bc5749d9db2e)
   
 </div>
-<br>
 
 <div align="center"> 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000"> 
@@ -58,11 +57,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_History-155263">
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarguroh20&show_icons=true&locale=en&layout=compact" alt="sarguroh20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarguroh20&show_icons=true&theme=dark&locale=en&layout=compact" alt="sarguroh20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarguroh20&show_icons=true&locale=en" alt="sarguroh20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarguroh20&show_icons=true&theme=dark&locale=en" alt="sarguroh20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarguroh20&" alt="sarguroh20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarguroh20&theme=dark" alt="sarguroh20" /></p>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
