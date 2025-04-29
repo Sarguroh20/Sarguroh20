@@ -1,7 +1,7 @@
 <div align="center"> 
-  
-![github-header-image (2)](https://github.com/Sarguroh20/Sarguroh20/assets/116432233/feb2a1ef-5476-47a6-b9a1-2e75298e7f02)
 
+![header](https://github.com/user-attachments/assets/9638489d-26b6-4643-9765-bc5749d9db2e)
+  
 </div>
 <br>
 
@@ -18,10 +18,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" />
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8E%93+I've+completed+my+Bachelors+in+IT." alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%95+I'm+honing+my+full+stack+development+skills.;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+All+of+my+projects+are+available+at+GitHub." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8E%93+Tech+Savvy+IT+Grad" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=1000&width=600&lines=%F0%9F%92%BB+Web+Developer+%7C+I+design+and+develop+websites.;+%F0%9F%93%8A+Data+Analyst+%7C+I+turn+raw+data+into+actionable+insights." alt="Typing SVG" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%AB+Reach+out+to+me%3A+tasmiya.sarguroh%40gmail.com" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%99%83+Must+known+fact%3A+It+all+started+with+1s+%26+0s...;%F0%9F%98%89+Must+known+fact%3A+I+learn+to+earn+%F0%9F%92%B8..." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=1000&width=600&lines=%F0%9F%92%AB++Never+be+afraid+to+start+over!" alt="Typing SVG" /></a>
 </div>
 
 <div align="left">
@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs,mongodb,git,github,c,cpp,java,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,mongodb,git,github,cpp,java,vscode" />
   </a>
 </p>
 
@@ -63,9 +63,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarguroh20&show_icons=true&locale=en" alt="sarguroh20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarguroh20&" alt="sarguroh20" /></p>
-
-[![Sarguroh20's GitHub | Stats](https://stats.quine.sh/Sarguroh20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
-[![Sarguroh20's GitHub | Languages Over Time](https://stats.quine.sh/Sarguroh20/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sarguroh20)
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
