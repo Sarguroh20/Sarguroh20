@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://github.com/user-attachments/assets/9638489d-26b6-4643-9765-bc5749d9db2e)
+<img width="1250" height="100" alt="github-header-image (2)" src="https://github.com/user-attachments/assets/52c9d373-5318-4dcc-b0b5-83f0cf612ac5" />
   
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8E%93+Tech+Savvy+IT+Grad" alt="Typing SVG" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=1000&width=600&lines=%F0%9F%92%BB+Web+Developer+%7C+I+design+and+develop+websites.;+%F0%9F%93%8A+Data+Analyst+%7C+I+turn+raw+data+into+actionable+insights." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=1000&width=600&lines=%F0%9F%92%BB+Web+Developer+%7C+I+design+and+develop+websites.;%F0%9F%8C%90+Full+Stack+Developer+%7C+Frontend+%7C+Backend" alt="Typing SVG" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%AB+Reach+out+to+me%3A+tasmiya.sarguroh%40gmail.com" alt="Typing SVG" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=1000&width=600&lines=%F0%9F%92%AB++Never+be+afraid+to+start+over!" alt="Typing SVG" /></a>
 </div>
